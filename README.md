@@ -4,9 +4,9 @@ This project implements a parallel Ball Tree construction algorithm in a Distrib
 
 ## Contributors
 
-* [Clara Gil](https://github.com/gil101) 17/20
-* [José Brás](https://github.com/ist182069) 18/20
-* [Miguel Barros](https://github.com/MVBarros) 19/20
+* [Clara Gil](https://github.com/gil101), **Grade**: 17/20
+* [José Brás](https://github.com/ist182069), **Grade**: 17/20
+* [Miguel Barros](https://github.com/MVBarros), **Grade**: 19/20
 
 ## Overview
 The project aims to efficiently construct a Ball Tree data structure in a distributed memory setting. The algorithm splits the point set among available processes, enabling the handling of larger problem instances that do not fit on a single machine.
