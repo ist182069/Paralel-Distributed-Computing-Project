@@ -1,4 +1,4 @@
-# Ball Tree Construction Project
+# [Ball Tree Construction Project](https://fenix.tecnico.ulisboa.pt/disciplinas/CPD132646/2020-2021/2-semestre)
 
 This project implements a parallel Ball Tree construction algorithm in a Distributed-Memory environment. The implementation focuses on problem decomposition, synchronization concerns, and load balancing to improve performance.
 
